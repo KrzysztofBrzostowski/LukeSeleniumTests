@@ -1,0 +1,16 @@
+2020-11-04 04:12:36.0936 | Passed | Luke.Selenium.Tests.MapsTest("Chrome").TestCase("plac Defilad 1, Warszawa","Chłodna 51, Warszawa","pieszo")
+
+2020-11-04 04:12:47.8158 | Passed | Luke.Selenium.Tests.MapsTest("Chrome").TestCase("plac Defilad 1, Warszawa","Chłodna 51, Warszawa","na rowerze")
+
+2020-11-04 04:12:59.9079 | Passed | Luke.Selenium.Tests.MapsTest("Chrome").TestCase("Chłodna 51, Warszawa","plac Defilad 1, Warszawa","pieszo")
+
+2020-11-04 04:13:11.6261 | Passed | Luke.Selenium.Tests.MapsTest("Chrome").TestCase("Chłodna 51, Warszawa","plac Defilad 1, Warszawa","na rowerze")
+
+2020-11-04 04:14:14.6951 | Passed | Luke.Selenium.Tests.MapsTest("Firefox").TestCase("plac Defilad 1, Warszawa","Chłodna 51, Warszawa","pieszo")
+
+2020-11-04 04:15:20.9647 | Passed | Luke.Selenium.Tests.MapsTest("Firefox").TestCase("plac Defilad 1, Warszawa","Chłodna 51, Warszawa","na rowerze")
+
+2020-11-04 04:16:27.0838 | Passed | Luke.Selenium.Tests.MapsTest("Firefox").TestCase("Chłodna 51, Warszawa","plac Defilad 1, Warszawa","pieszo")
+
+2020-11-04 04:17:33.0642 | Passed | Luke.Selenium.Tests.MapsTest("Firefox").TestCase("Chłodna 51, Warszawa","plac Defilad 1, Warszawa","na rowerze")
+
